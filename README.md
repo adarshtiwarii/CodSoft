@@ -1,2 +1,2 @@
 # CodSoft
-project in java
+Number guess game  code in java..
